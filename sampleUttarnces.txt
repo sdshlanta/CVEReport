@@ -1,0 +1,10 @@
+GetTodaysCVEs what c. v. e.'s have been released today
+GetTodaysCVEs what c. v. e.'s were released today
+GetTodaysCVEs what c. v. e.'s dropped today
+GetTodaysCVEs what are todays c. v. e.'s
+GetTodaysCVEs todays c. v. e.'s
+GetTodaysCVEs any c. v. e.'s drop today
+
+GetCVE c. v. e. {CVENumberFirstHalf} {CVENumberSecondHalf}
+GetCVE look up information on c. v. e. {CVENumberFirstHalf} {CVENumberSecondHalf}
+GetCVE tell me more about c. v. e. {CVENumberFirstHalf} {CVENumberSecondHalf}

@@ -1,0 +1,29 @@
+{
+	"intents": [
+		{
+			"intent": "GetCVE",
+			"slots": [
+				{
+					"name": "CVENumberFirstHalf",
+					"type": "AMAZON.FOUR_DIGIT_NUMBER"
+				},
+				{
+					"name": "CVENumberSecondHalf",
+					"type": "AMAZON.FOUR_DIGIT_NUMBER"
+				}
+			]
+		}
+		{
+			"intent": "GetCVEsByDate",
+			"slots": [
+				{
+					"name": "Date",
+					"type": "AMAZON.DATE"
+				}
+			]
+		}
+		{			
+			"intent": "GetTodaysCVEs"
+		}
+	]
+}
